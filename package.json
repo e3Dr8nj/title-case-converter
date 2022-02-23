@@ -1,0 +1,23 @@
+{
+  "name": "title-case-conventer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e3Dr8nj/title-case-converter.git"
+  },
+  "keywords": [
+    "title-case",
+    "converter"
+  ],
+  "author": "'r7h9' <'hy421725@gmail.com'> ('https://github.com/e3Dr8nj')",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/e3Dr8nj/title-case-converter/issues"
+  },
+  "homepage": "https://github.com/e3Dr8nj/title-case-converter#readme"
+}
